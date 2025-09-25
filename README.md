@@ -4,19 +4,21 @@
 
 ### World Generation
 
-**Terralith**: Terralith is a datapack (packaged as a mod for both Fabric and Forge) designed to fundamentally overhaul the overworld with new biomes and caves. It accomplishes this without adding any new blocks, making it fully compatible with vanilla clients.  
-**Tectonic**: Terrain shaping brought to new heights, grander and more varied than ever before!  
-**Underground Rivers**: Adds underground rivers to your world.  
-**YUNG's Better Mineshafts (Fabric)**: Revamps vanilla abandoned mineshafts, changing them from boring straight lines into dynamic, varied webs of tunnels.  
-**YUNG's Better Dungeons (Fabric)**: Redesigns vanilla dungeons while also adding three new dungeons: Catacombs, Fortresses of the Undead, and Spider Caves!  
-**YUNG's Better Strongholds (Fabric)**: Complete redesign of Minecraft strongholds like never before, making them much more complex and exciting while still staying true to vanilla themes.  
-**YUNG's Better Ocean Monuments (Fabric)**: Redesigns ocean monuments to be much more engaging and rewarding.  
-**YUNG's Better Jungle Temples (Fabric)**: Completely redesigns jungle temples from the ground up, featuring a completely new design, traps, puzzles, and loot!  
-**YUNG's Better Desert Temples (Fabric)**: Redesigns vanilla desert temples to be way more exciting, adding a variety of new puzzles, traps, & parkour challenges.  
-**YUNG's Better Witch Hunts (Fabric)**: Adds multiple new hut variants that can spawn as well as a witch's circle. Huts now have better designs and more meaningful loot.  
-**YUNG's Better Caves (Fabric)**: Completely overhauls Minecraft's cave systems. Caves are small and unassuming at the surface, but the deeper you go, the crazier things get.  
-**Better Villages - Fabric**: This mod enhances the villages in Minecraft by improving existing structure, making them feel more alive and engaging to explore.
+- [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)
+- [Tectonic](https://www.curseforge.com/minecraft/mc-mods/tectonic)
+- [Underground Rivers](https://www.curseforge.com/minecraft/mc-mods/underground-rivers)
 
+#### Structures
+
+- [YUNG's Better Mineshafts (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric)
+- [YUNG's Better Dungeons (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric)
+- [YUNG's Better Strongholds (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric)
+- [YUNG's Better Ocean Monuments (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-fabric)
+- [YUNG's Better Jungle Temples (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples-fabric)
+- [YUNG's Better Desert Temples (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric)
+- [YUNG's Better Witch Huts (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-fabric)
+- [YUNG's Better Caves (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves-fabric)
+- [Better Villages - Fabric](https://www.curseforge.com/minecraft/mc-mods/better-villages-fabric)
 - [Towers of the Wild Modded](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-modded)
 
 ### Nether
@@ -33,32 +35,30 @@
 
 ### Interface (UI)
 
-**EnhancedVisuals**: Provides a more immersive experience by adding effects to the HUD.  
-**Advancement Plaques [Fabric]**: Replace those boring, anti-climactic advancement popups with fancy glowing plaques.  
-**Immersive UI**: Enhance your gameplay experience with smoother transitions, customizable menus, and animated UI components.  
-**Dynamic Crosshair**: It hides or changes the crosshair dependent on context.  
-**Auto HUD**: Hides parts of the user interface (HUD) that are currently not interesting.  
-**AppleSkin**: Adds various food-related HUD improvements.  
-**Traveler's Titles (Fabric)**: Adds RPG-like titles when entering biomes or dimensions.
-
+- [EnhancedVisuals](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals)
+- [Advancement Plaques [Fabric]](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)
+- [Immersive UI](https://www.curseforge.com/minecraft/mc-mods/immersive-ui)
+- [Dynamic Crosshair](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair)
+- [Auto HUD](https://www.curseforge.com/minecraft/mc-mods/auto-hud)
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [Traveler's Titles (Fabric)](https://www.curseforge.com/minecraft/mc-mods/travelers-titles)
 - [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
 - [Enchanting Infuser](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser)
 - [Blur+](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)
 
 ### Audio
 
-**Sound Physics Remastered**: Provides realistic sound attenuation, reverberation, and absorption through blocks.  
-**Sounds**: Adds a variety of new sound effects to the game, whilst improving existing ones that didn't quite fit. It's a game-changer, it makes vanilla feel incomplete in comparison.
-**AmbientSounds6**: Adds a more vibrant ambience.  
-**Presence Footsteps**: Expect to see a more rich and immersive Minecraft world, one where Presence Footsteps adds new and more dynamic sounds for every block the player walks on.
+- [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
+- [Sounds](https://www.curseforge.com/minecraft/mc-mods/sounds)
+- [AmbientSounds6](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
+- [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps)
 
 ### Gameplay
 
-**Better Combat [Fabric & Forge]**: Easy, spectacular and fun melee combat system from Minecraft Dungeons.  
-**Carry On**: Is a simple mod that improves game interaction by allowing players to pick up, carry, and place single block Tile Entities using only their empty hands.  
-**Elytra Slot**: Add an elytra slot to the player inventory and allows the elytra to be placed into this slot.  
-**Charm of Undying (Fabric/Forge/Quilt)**: Add a new slot, the Charm slot, to the player inventory and allows the Totem of Undying to be placed into this slot, either directly or through using the totem in-hand.
-
+- [Better Combat [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)
+- [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
+- [Elytra Slot](https://www.curseforge.com/minecraft/mc-mods/elytra-slot)
+- [Charm of Undying (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/charm-of-undying)
 - [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)
 - [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic)
 - [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils)
@@ -76,42 +76,41 @@
 
 ### Performance
 
-**Sodium**: The fastest and most compatible rendering optimization mod for Minecraft.  
-**ModernFix**: An all-in-one mod that improves performance, reduces memory usage, and fixes many bugs in modern Minecraft versions.  
-**FerriteCore**: Reduces the memory usage of Minecraft in a few different ways.  
-**ImmediatelyFast**: optimizes all immediate mode rendering by using a custom buffer implementation which batches draw calls and uploads data to the GPU in a more efficient way.  
-**Enhanced Block Entities**: Mod loader which aims to increase the performance of block entity rendering.  
-**Cull Leaves**: Adds culling to leaf blocks, providing a huge performance boost over vanilla.  
-**Entity Culling Fabric/Forge**: This mod introduces asynchronous path-tracing to efficiently determine what's actually visible to the player.  
-**FPS Reducer**: This mod reduces unnecessary GPU and CPU load by reducing the frame rate automatically when the client window is inactive or you are not operating the Minecraft for a certain period of time.  
-**Not Enough Recipe Book [NERB]**: Completely removes recipe book from the game, optimizing player data.  
-**Noisium**: Optimizes world generation performance for a better gameplay experience.  
-**Fast Async World Save [Forge / Fabric]**:An efficient mod designed to modify the saving mechanism of world data during intermittent saves, enabling asynchronous saving at five-minute intervals. This approach effectively addresses lag spikes while safeguarding against data loss.  
-**Connectivity**: Lightweight mod which solves several connection problems like Login-Timeouts, DecoderException, Packet size limits, Ghostblock issues, Payload too large and more.  
-**Ksyxis**: Speed up your world loading by removing spawn chunks.  
-**Alternate Current**: Alternate Current is an efficient and non-locational redstone dust implementation.  
-**Let Me Despawn**: Designed to address entity lag issues by modifying the despawn mechanics for mobs that have picked up or equipped items.  
-**Sodium Extra**: Aims to bring most of OptiFine's eye-candy options to Sodium; in addition to providing some features such as visual bug fixes and other performance options that are not yet available on Sodium.  
-**Lithium (Fabric/NeoForge)**: Is a general-purpose optimization mod for Minecraft, which works to improve a number of systems.  
-**Debugify**: Fixes Minecraft bugs found on the bug tracker.  
-**Fast Paintings**: Fixes and optimizes painting performance by making them blocks.  
-**BadOptimizations**: Optimization mod that focuses on things other than rendering.  
-**Clumps**: Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area.
-
+- [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)
+- [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
+- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
+- [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast)
+- [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities)
+- [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
+- [Entity Culling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling)
+- [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)
+- [Not Enough Recipe Book [NERB]](https://www.curseforge.com/minecraft/mc-mods/not-enough-recipe-book)
+- [Noisium](https://www.curseforge.com/minecraft/mc-mods/noisium)
+- [Fast Async World Save [Forge / Fabric]](https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save)
+- [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
+- [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis)
+- [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current)
+- [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn)
+- [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)
+- [Lithium (Fabric/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/lithium)
+- [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify)
+- [Fast Paintings](https://www.curseforge.com/minecraft/mc-mods/fast-paintings)
+- [BadOptimizations](https://www.curseforge.com/minecraft/mc-mods/badoptimizations)
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds)
 
 ### Quality of Life
 
-- Distant Horizons: A level of detail mod
-- Model Gap Fix
-- Mouse Tweaks
-- Controlling
+- [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distanthorizons)
+- [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix)
+- [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
+- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 - [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person)
-- Controllable
-- Continuity
+- [Controllable](https://www.curseforge.com/minecraft/mc-mods/controllable)
+- [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)
 - [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
-- Better Advancements
-- Skin Layers 3D
+- [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
+- [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
 - [CameraOverhaul](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul)
 - [Eating Animation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric)
 - [Cave Dust](https://www.curseforge.com/minecraft/mc-mods/cave-dust)
@@ -123,12 +122,12 @@
 
 ### Utility
 
-**Iris Shaders**: A modern shaders mod for Minecraft intended to be compatible with existing Optifine shaders.  
-**[ETF] Entity Texture Features - [Fabric & Forge]**: Adds many new Entity Texture Features , including entity and player skin features!  
-**[EMF] Entity Model Features - [Fabric & Forge]**: Adds support for OptiFine's Custom Entity Models.  
-**Mod Menu**: Lets you view the mods you have installed and, if supported by the mod, enables quick and easy access to the mod's config screens.  
-**OptiGUI**: Is a client-side mod, which enables the customization of in-game GUI screen textures with resource packs.  
-**Animatica**: Adds support for resource packs that use custom animated textures.
+- [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
+- [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features)
+- [[EMF] Entity Model Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-model-features)
+- [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
+- [OptiGUI](https://www.curseforge.com/minecraft/mc-mods/optigui)
+- [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica)
 
 ---
 
