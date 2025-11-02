@@ -141,6 +141,10 @@
 - [Legendary Tooltips [Fabric]](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips-fabric)
 - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
 - [Explosive Enhancement](https://www.curseforge.com/minecraft/mc-mods/explosive-enhancement)
+- [Gaura's 2D Projectiles](https://www.curseforge.com/minecraft/mc-mods/twod-projectiles)
+- [Wakes](https://www.curseforge.com/minecraft/mc-mods/wakes)
+- [Cool Rain](https://www.curseforge.com/minecraft/mc-mods/cool-rain)
+- [Amor Trim Item Fix](https://www.curseforge.com/minecraft/mc-mods/armor-trim-item-fix)
 
 ### Utility
 
@@ -157,6 +161,8 @@
 - [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
 - [Spyglass Improvements](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements)
+- [Sodium/Embeddium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged)
+- [Chest Search Bar](https://www.curseforge.com/minecraft/mc-mods/chest-search-bar)
 
 ---
 
