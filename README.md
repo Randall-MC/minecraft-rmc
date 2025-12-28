@@ -1,6 +1,28 @@
-# MINECRAFT
+# Minecraft Forge 1.20.1
 
-## Mods
+Hola a todos 🫡. Otra vez estoy haciendo un repositorio para Minecraft ¿Será que esta vez logro completar y cumplir un propósito más? 😅  
+Quizá se pregunten 🤔 ¿Por qué Forge 1.20.1? Bien, la respuesta es sencilla, **Alex's Mobs**. Ya había en este repositorio una versión con Fabric en la versión 1.21.1 pero sentía el mundo vacío 😢. Pueden jugar la versión de [Fabric aquí](https://github.com/Randall-MC/minecraft-rmc/tree/fabric-1.21.1). Además de eso, pasó algo en el "mundo de Minecraft" y es que apareció otro "loader", **NeoForge** y hubo algunos problemas entre los desarrolladores y entonces ahora algunos mods a partir de ciertas versiones solo están en NeoForge o solo están en Forge. Entonces por eso elegí la versión 1.20.1 que es dónde están la mayoría de los mods que me gustan.
+
+Una de las cosas que me faltó hacer en el trabajo anterior fue separar los mods por entorno de ejecución (Server / Client) es algo que haré en este.
+
+Para poder jugar a esta versión de Minecraft necesitas:
+
+- Minecraft (yo compré el mío en [Eneba](https://www.eneba.com/es/))
+- Para usar mods, estoy usando [CurseForge](https://www.curseforge.com/download/app)
+
+---
+
+## Lista de mods
+
+Como dije antes, aquí está la lista de mods separados por entorno de ejecución y por categoría.
+
+### Mods de lado del servidor
+
+### Modos de lado del cliente
+
+#### Rendimiento
+
+- [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium)
 
 ### World Generation
 
