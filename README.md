@@ -16,56 +16,106 @@ Para poder jugar a esta versión de Minecraft necesitas:
 
 Como dije antes, aquí está la lista de mods separados por entorno de ejecución y por categoría.
 
+<!-- - []() -->
+
 ### Mods de lado del servidor
 
-### Modos de lado del cliente
+#### Rendimiento (servidor)
 
-#### Rendimiento
+- [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
+- [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
+- [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge)
+- [Not Enough Recipe Book [NERB]](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook)
+<!-- - [Redirector [Modern]](https://www.curseforge.com/minecraft/mc-mods/redirector) -->
+- [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
+- [Server Performance - Smooth Chunk Save[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
+- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
+- [Fastload](https://www.curseforge.com/minecraft/mc-mods/fastload)
+- [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/fastload)
+- [Bee Fix](https://www.curseforge.com/minecraft/mc-mods/bee-fix)
+- [DoesPotatoTick?](https://www.curseforge.com/minecraft/mc-mods/doespotatotick)
+- [Icterine](https://www.curseforge.com/minecraft/mc-mods/icterine)
+- [DespawnTweaker](https://www.curseforge.com/minecraft/mc-mods/despawntweaker)
 
-- [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium)
+#### Generación de mundo y estructuras
 
-### World Generation
-
-#### Structures
-
-- [YUNG's Better Mineshafts (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric)
-- [YUNG's Better Dungeons (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric)
-- [YUNG's Better Strongholds (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric)
-- [YUNG's Better Ocean Monuments (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-fabric)
-- [YUNG's Better Jungle Temples (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples-fabric)
-- [YUNG's Better Desert Temples (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric)
-- [YUNG's Better Witch Huts (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-fabric)
-- [YUNG's Better Caves (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves-fabric)
-- [Better Villages - Fabric](https://www.curseforge.com/minecraft/mc-mods/better-village-fabric)
-- [Explorify - Dungeons & Structures](https://www.curseforge.com/minecraft/mc-mods/explorify)
-- [Philip's Ruins](https://www.curseforge.com/minecraft/mc-mods/ruins)
+- [YUNG's Better Mineshafts (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
+- [YUNG's Better Dungeons (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
+- [YUNG's Better Nether Fortresses (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses)
+- [YUNG's Better Strongholds (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
+- [YUNG's Better Ocean Monuments (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments)
+- [YUNG's Better End Island (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island)
+- [YUNG's Better Witch Huts (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts)
+- [YUNG's Better Jungle Temples (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples)
+- [YUNG's Better Desert Temples (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples)
+- [YUNG's Better Caves (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)
+- [Better Villages - Forge](https://www.curseforge.com/minecraft/mc-mods/better-village-forge)
 - [Towers of the Wild Modded](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-modded)
-
-#### Nether
-
+- [Explorify – Dungeons & Structures](https://www.curseforge.com/minecraft/mc-mods/explorify)
+- [Philip's Ruins](https://www.curseforge.com/minecraft/mc-mods/ruins)
 - [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether)
-- [YUNG's Better Nether Fortresses (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-fabric)
-
-#### End
-
 - [Nullscape](https://www.curseforge.com/minecraft/mc-mods/nullscape)
-- [YUNG's Better End Island (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island-fabric)
 - [Better End Cities Vanilla](https://www.curseforge.com/minecraft/mc-mods/better-end-cities-vanilla)
+
+#### Contenido nuevo (servidor)
+
+Aunque la idea principal es mantener lo más posible la esencia de Minecraft, hay mods que agregan contenido para mejorar ciertas areas del juego.
+
 - [End Remastered [NeoForge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/endremastered)
 
-### Interface (UI)
+#### Interfaz UI (servidor)
+
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+
+### Mods de lado del cliente
+
+#### Rendimiento (cliente)
+
+- [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium)
+- [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
+- [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
+- [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast)
+- [Yeetus Experimentus](https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus)
+- [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge)
+- [Bocchium](https://www.curseforge.com/minecraft/mc-mods/bocchium)
+- [CullLessLeaves Reforged (Unofficial)](https://www.curseforge.com/minecraft/mc-mods/culllessleaves-reforged)
+- [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)
+- [Not Enough Recipe Book [NERB]](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook)
+<!-- - [Redirector [Modern]](https://www.curseforge.com/minecraft/mc-mods/redirector) -->
+- [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
+- [Server Performance - Smooth Chunk Save[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
+- [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/fastload)
+- [Bee Fix](https://www.curseforge.com/minecraft/mc-mods/bee-fix)
+- [DoesPotatoTick?](https://www.curseforge.com/minecraft/mc-mods/doespotatotick)
+- [Icterine](https://www.curseforge.com/minecraft/mc-mods/icterine)
+- [DespawnTweaker](https://www.curseforge.com/minecraft/mc-mods/despawntweaker)
+
+#### Contenido nuevo (cliente)
+
+- [End Remastered [NeoForge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/endremastered)
+
+#### Interfaz UI (cliente)
 
 - [Dynamic Crosshair](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair)
 - [Auto HUD](https://www.curseforge.com/minecraft/mc-mods/auto-hud)
-- [EnhancedVisuals](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals)
+- [EnhancedVisuals](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals) (_Resource Pack_)
 - [Immersive UI](https://www.curseforge.com/minecraft/mc-mods/immersive-ui)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
-- [Traveler's Titles (Fabric)](https://www.curseforge.com/minecraft/mc-mods/travelers-titles-fabric)
-- [Blur+](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)
+- [Traveler's Titles (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/travelers-titles) (_Resource Pack_)
+- [Blur (Forge)](https://www.curseforge.com/minecraft/mc-mods/blur-forge)
 - [Fancy Toasts | Better Advancements](https://www.curseforge.com/minecraft/mc-mods/fancy-toasts)
-- [ChatAnimation](https://www.curseforge.com/minecraft/mc-mods/chatanimation)
+- [Chat Animation [Smooth Chat]](https://www.curseforge.com/minecraft/mc-mods/chatanimation)
+- [Beautified Chat [Client]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-client)
 - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
-- [Loot Journal (Fabric)](https://www.curseforge.com/minecraft/mc-mods/loot-journal-fabric)
+- [Loot Journal (Forge)](https://www.curseforge.com/minecraft/mc-mods/loot-journal)
+
+#### Música y audio
+
+- [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
+- [Sound​s](https://www.curseforge.com/minecraft/mc-mods/sound)
+- [AmbientSounds 6](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
+- [Presence Footsteps (Forge)](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge)
+- [Biome Music[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/biome-music)
 
 ### Audio
 
@@ -213,14 +263,19 @@ Como dije antes, aquí está la lista de mods separados por entorno de ejecució
 - [Cooper Equipment](https://www.curseforge.com/minecraft/mc-mods/copper-equipment)
 - [Enhanced Mob AI](https://www.curseforge.com/minecraft/mc-mods/enhanced-mob-ai)
 
+### Forge
+
+[Auto Third Person](https://www.curseforge.com/minecraft/mc-mods/auto-third-person)
+[Blue Flame Burning](https://www.curseforge.com/minecraft/mc-mods/blueflame)
+
 ---
 
 ## Mods que fueron reemplazados
 
+- [Incendium](https://www.curseforge.com/minecraft/mc-mods/incendium) -> Amplified Nether
+- [Advancement Plaques [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques) -> Fancy Toasts | Better Advancements
 - [Biome Particle Weather](https://www.curseforge.com/minecraft/mc-mods/biome-particle-weather)
-- [Advancement Plaques [Fabric]](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric)
 - [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
-- [Incendium](https://www.curseforge.com/minecraft/mc-mods/incendium)
 - [Auditory Continued](https://www.curseforge.com/minecraft/mc-mods/auditory-continued)
 - [Pick Up Notifier](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier)
 - [Hold My Items](https://www.curseforge.com/minecraft/mc-mods/hold-my-items)
