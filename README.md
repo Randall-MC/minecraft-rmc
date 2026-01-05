@@ -12,54 +12,72 @@ Para poder jugar a esta versión de Minecraft necesitas:
 
 ---
 
-## Lista de mods
+## Mods en ambos lados Cliente / Servidor
 
-Como dije antes, aquí está la lista de mods separados por entorno de ejecución y por categoría.
+### Rendimiento
 
-<!-- - []() -->
-
-### Mods en ambos lados Cliente / Servidor
-
-- [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
-- [Better Combat [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)
-- [Better Tridents](https://www.curseforge.com/minecraft/mc-mods/better-tridents)
-- [Bee Fix](https://www.curseforge.com/minecraft/mc-mods/bee-fix)
-- [Bridging Mod](https://www.curseforge.com/minecraft/mc-mods/bridging-mod)
-- [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
-- [Charm of Undying (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/charm-of-undying)
 - [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
 - [DespawnTweaker](https://www.curseforge.com/minecraft/mc-mods/despawntweaker)
 - [DoesPotatoTick?](https://www.curseforge.com/minecraft/mc-mods/doespotatotick)
+- [Bee Fix](https://www.curseforge.com/minecraft/mc-mods/bee-fix)
+- [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
+- [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
+- [Not Enough Recipe Book [NERB]](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook)
+- [Server Performance - Smooth Chunk Save[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
+- [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge)
+
+---
+
+### Mecánicas del juego
+
+- [Better Combat [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)
+- [Better Tridents](https://www.curseforge.com/minecraft/mc-mods/better-tridents)
+- [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
+- [Bridging Mod](https://www.curseforge.com/minecraft/mc-mods/bridging-mod)
+- [Charm of Undying (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/charm-of-undying)
 - [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils)
 - [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic)
 - [Easy Shulker Boxes](https://www.curseforge.com/minecraft/mc-mods/easy-shulker-boxes)
-- [End Remastered [NeoForge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/endremastered)
-- [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
+- [Ping Wheel](https://www.curseforge.com/minecraft/mc-mods/ping-wheel)
+- [RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest)
+- [Tree Harvester](https://www.curseforge.com/minecraft/mc-mods/tree-harvester)
+
+### Contenido nuevo
+
+#### Mobs
+
+- [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
+- [Brutal Bosses - Custom Bosses[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/brutal-bosses-dungeon)
 - [Mutant Monsters](https://www.curseforge.com/minecraft/mc-mods/mutant-monsters)
 - [Mutant More](https://www.curseforge.com/minecraft/mc-mods/new-mutant-more)
-- [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
-- [Not Enough Recipe Book [NERB]](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook)
-- [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged)
-- [Ping Wheel](https://www.curseforge.com/minecraft/mc-mods/ping-wheel)
-- [Random Bone Meal Flowers](https://www.curseforge.com/minecraft/mc-mods/random-bone-meal-flowers)
-- [RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest)
-- [Server Performance - Smooth Chunk Save[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
-- [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge)
+- [Nyf's Spiders](https://www.curseforge.com/minecraft/mc-mods/nyfs-spiders)
+
+#### Items
+
+- [End Remastered [NeoForge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/endremastered)
+- [Comforts (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/comforts)
+- [Paragliders](https://www.curseforge.com/minecraft/mc-mods/paragliders)
+- [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
+
+---
+
+### Experiencia de juego - Ambiente, efectos, sonido
+
 - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
-- [Tree Harvester](https://www.curseforge.com/minecraft/mc-mods/tree-harvester)
-- [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged)
 - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 - [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+- [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged)
+- [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged)
 
-### Mods de lado del servidor
+## Mods de lado del servidor
 
-#### Rendimiento (servidor)
+### Rendimiento
 
 - [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
 
 ---
 
-#### Generación de mundo y estructuras
+### Generación de mundo y estructuras
 
 - [YUNG's Better Mineshafts (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
 - [YUNG's Better Dungeons (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
@@ -81,19 +99,15 @@ Como dije antes, aquí está la lista de mods separados por entorno de ejecució
 
 ---
 
-#### Mecánicas de juego (servidor)
+### Mecánicas del juego
 
-_No hay mods exclusivos listados aquí — los mods compartidos están en la sección "Mods en ambos lados Cliente / Servidor"._
-
-#### Client-side mods necesarios en el servidor
-
-_No hay mods exclusivos listados aquí — los mods compartidos están en la sección "Mods en ambos lados Cliente / Servidor"._
+- [Random Bone Meal Flowers](https://www.curseforge.com/minecraft/mc-mods/random-bone-meal-flowers)
 
 ---
 
-### Mods de lado del cliente
+## Mods de lado del cliente
 
-#### Rendimiento (cliente)
+### Rendimiento
 
 - [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium)
 - [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast)
@@ -102,25 +116,25 @@ _No hay mods exclusivos listados aquí — los mods compartidos están en la sec
 - [CullLessLeaves Reforged (Unofficial)](https://www.curseforge.com/minecraft/mc-mods/culllessleaves-reforged)
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)
 
-#### Contenido nuevo (cliente)
+---
 
-_No hay mods exclusivos listados aquí — los mods compartidos están en la sección "Mods en ambos lados Cliente / Servidor"._
+### Interfaz UI
 
-#### Interfaz UI (cliente)
-
-- [Dynamic Crosshair](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair)
-- [Auto HUD](https://www.curseforge.com/minecraft/mc-mods/auto-hud)
-- [EnhancedVisuals](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals) (_Resource Pack_)
-- [Immersive UI](https://www.curseforge.com/minecraft/mc-mods/immersive-ui)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
-- [Traveler's Titles (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/travelers-titles) (_Resource Pack_)
-- [Blur (Forge)](https://www.curseforge.com/minecraft/mc-mods/blur-forge)
-- [Fancy Toasts | Better Advancements](https://www.curseforge.com/minecraft/mc-mods/fancy-toasts)
-- [Chat Animation [Smooth Chat]](https://www.curseforge.com/minecraft/mc-mods/chatanimation)
+- [Auto HUD](https://www.curseforge.com/minecraft/mc-mods/auto-hud)
 - [Beautified Chat [Client]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-client)
+- [Blur (Forge)](https://www.curseforge.com/minecraft/mc-mods/blur-forge)
+- [Chat Animation [Smooth Chat]](https://www.curseforge.com/minecraft/mc-mods/chatanimation)
+- [Dynamic Crosshair](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair)
+- [EnhancedVisuals](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals) (_Resource Pack_)
+- [Fancy Toasts | Better Advancements](https://www.curseforge.com/minecraft/mc-mods/fancy-toasts)
+- [Immersive UI](https://www.curseforge.com/minecraft/mc-mods/immersive-ui)
 - [Loot Journal (Forge)](https://www.curseforge.com/minecraft/mc-mods/loot-journal)
+- [Traveler's Titles (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/travelers-titles) (_Resource Pack_)
 
-#### Música y ambiente
+---
+
+### Sonido y ambiente
 
 - [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
 - [Sound​s](https://www.curseforge.com/minecraft/mc-mods/sound)
@@ -128,29 +142,12 @@ _No hay mods exclusivos listados aquí — los mods compartidos están en la sec
 - [Presence Footsteps (Forge)](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge)
 - [Biome Music[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/biome-music)
 
-#### Mecánicas de juego (cliente)
+---
 
-_No hay mods exclusivos listados aquí — los mods compartidos están en la sección "Mods en ambos lados Cliente / Servidor"._
-
-##### Items
-
-- [Comforts (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/comforts)
-- [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
-- [Paragliders](https://www.curseforge.com/minecraft/mc-mods/paragliders)
-
-#### Mobs
-
-- [Brutal Bosses - Custom Bosses[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/brutal-bosses-dungeon)
-- [Nyf's Spiders](https://www.curseforge.com/minecraft/mc-mods/nyfs-spiders)
-
-### Quality of Life
+### Calidad de vida
 
 - [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)
-- [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix)
-- [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
-- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 - [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person)
-- [Controllable](https://www.curseforge.com/minecraft/mc-mods/controllable)
 - [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)
 - [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
 - [Eating Animation [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge)
@@ -167,23 +164,26 @@ _No hay mods exclusivos listados aquí — los mods compartidos están en la sec
 - [Legendary Tooltips [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips)
 - [Explosive Enhancement: Reforged](https://www.curseforge.com/minecraft/mc-mods/explosive-enhancement-reforged)
 - [Gaura's 2D Projectiles](https://www.curseforge.com/minecraft/mc-mods/twod-projectiles)
-- [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged)
 - [Cool Rain Reforged](https://www.curseforge.com/minecraft/mc-mods/cool-rain-reforged)
 - [Dynamic Trim](https://www.curseforge.com/minecraft/mc-mods/dynamic-trim)
 - [Make Bubbles Pop](https://www.curseforge.com/minecraft/mc-mods/make-bubbles-pop)
-
----
-
-### Utility
-
-- [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
-- [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)
-- [[EMF] Entity Model Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-model-features)
 - [FindMe](https://www.curseforge.com/minecraft/mc-mods/findme)
 - [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
 - [Spyglass Improvements](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements)
 - [Chest Search Bar](https://www.curseforge.com/minecraft/mc-mods/chest-search-bar)
+
+---
+
+### Utility
+
+- [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix)
+- [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
+- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
+- [Controllable](https://www.curseforge.com/minecraft/mc-mods/controllable)
+- [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
+- [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)
+- [[EMF] Entity Model Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-model-features)
 
 ---
 
