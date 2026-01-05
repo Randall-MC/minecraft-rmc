@@ -20,6 +20,7 @@ Para poder jugar a esta versión de Minecraft necesitas:
 - [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
 - [DespawnTweaker](https://www.curseforge.com/minecraft/mc-mods/despawntweaker)
 - [DoesPotatoTick?](https://www.curseforge.com/minecraft/mc-mods/doespotatotick)
+- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
 - [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 - [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
 - [Not Enough Recipe Book [NERB]](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook)
@@ -68,21 +69,17 @@ Para poder jugar a esta versión de Minecraft necesitas:
 
 ### Experiencia de juego - Ambiente, efectos, sonido
 
+- [Beautiful Enchanted Books [MOD EDITION] | 6.0 UPDATE!](https://www.curseforge.com/minecraft/mc-mods/beautiful-enchanted-books)
+- [Blue Flame Burning](https://www.curseforge.com/minecraft/mc-mods/blueflame)
 - [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged)
 - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
 - [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged)
 - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 - [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
-- [Beautiful Enchanted Books [MOD EDITION] | 6.0 UPDATE!](https://www.curseforge.com/minecraft/mc-mods/beautiful-enchanted-books)
-- [Blue Flame Burning](https://www.curseforge.com/minecraft/mc-mods/blueflame)
-
-## Mods de lado del servidor
-
-### Rendimiento
-
-- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
 
 ---
+
+## Mods de lado del servidor
 
 ### Generación de mundo y estructuras
 
@@ -202,12 +199,9 @@ Para poder jugar a esta versión de Minecraft necesitas:
 
 - [Animated Mojang Logo](https://www.curseforge.com/minecraft/mc-mods/animated-mojang-logo)
 - [Antique Atlas](https://www.curseforge.com/minecraft/mc-mods/antique-atlas)
-- [Armor Trim Item Fix](https://www.curseforge.com/minecraft/mc-mods/armor-trim-item-fix)
 - [Auto Third Person](https://www.curseforge.com/minecraft/mc-mods/auto-third-person)
-- [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud)
 - [Better Statistics Screen](https://www.curseforge.com/minecraft/mc-mods/better-stats)
 - [Boss Music Mod](https://www.curseforge.com/minecraft/mc-mods/boss-music-mod)
-- [Cooper Equipment](https://www.curseforge.com/minecraft/mc-mods/copper-equipment)
 - [Enhanced Mob AI](https://www.curseforge.com/minecraft/mc-mods/enhanced-mob-ai)
 - [First-person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model)
 - [Forgiving Void](https://www.curseforge.com/minecraft/mc-mods/forgiving-void)
