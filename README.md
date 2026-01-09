@@ -9,6 +9,7 @@ Para poder jugar a esta versión de Minecraft necesitas:
 
 - Minecraft (yo compré el mío en [Eneba](https://www.eneba.com/es/))
 - Para usar mods, estoy usando [CurseForge](https://www.curseforge.com/download/app)
+- Versión de Forge-47.4.10
 
 ---
 
@@ -26,8 +27,6 @@ Para poder jugar a esta versión de Minecraft necesitas:
 - [Not Enough Recipe Book [NERB]](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook)
 - [Server Performance - Smooth Chunk Save[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
 - [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge)
-
----
 
 ### Mecánicas del juego
 
@@ -49,12 +48,13 @@ Para poder jugar a esta versión de Minecraft necesitas:
 
 ### Contenido nuevo
 
+- [Brutal Bosses - Custom Bosses[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/brutal-bosses-dungeon)
 - [End Remastered [NeoForge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/endremastered)
+- [Philip's Ruins](https://www.curseforge.com/minecraft/mc-mods/ruins)
 
 #### Mobs
 
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
-- [Brutal Bosses - Custom Bosses[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/brutal-bosses-dungeon)
 - [Mutant Monsters](https://www.curseforge.com/minecraft/mc-mods/mutant-monsters)
 - [Mutant More](https://www.curseforge.com/minecraft/mc-mods/new-mutant-more)
 - [Nyf's Spiders](https://www.curseforge.com/minecraft/mc-mods/nyfs-spiders)
@@ -65,17 +65,21 @@ Para poder jugar a esta versión de Minecraft necesitas:
 - [Paragliders](https://www.curseforge.com/minecraft/mc-mods/paragliders)
 - [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
 
----
-
 ### Experiencia de juego - Ambiente, efectos, sonido
 
 - [Beautiful Enchanted Books [MOD EDITION] | 6.0 UPDATE!](https://www.curseforge.com/minecraft/mc-mods/beautiful-enchanted-books)
 - [Blue Flame Burning](https://www.curseforge.com/minecraft/mc-mods/blueflame)
+- [Cool Rain Reforged](https://www.curseforge.com/minecraft/mc-mods/cool-rain-reforged)
+- [Explosive Enhancement: Reforged](https://www.curseforge.com/minecraft/mc-mods/explosive-enhancement-reforged)
 - [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged)
 - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
 - [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged)
 - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 - [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+
+### Dependencias / Librerías
+
+- [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel)
 
 ---
 
@@ -88,7 +92,6 @@ Para poder jugar a esta versión de Minecraft necesitas:
 - [Better Villages - Forge](https://www.curseforge.com/minecraft/mc-mods/better-village-forge)
 - [Explorify – Dungeons & Structures](https://www.curseforge.com/minecraft/mc-mods/explorify)
 - [Nullscape](https://www.curseforge.com/minecraft/mc-mods/nullscape)
-- [Philip's Ruins](https://www.curseforge.com/minecraft/mc-mods/ruins)
 - [Towers of the Wild Modded](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-modded)
 - [YUNG's Better Caves (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)
 - [YUNG's Better Desert Temples (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples)
@@ -100,8 +103,6 @@ Para poder jugar a esta versión de Minecraft necesitas:
 - [YUNG's Better Ocean Monuments (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments)
 - [YUNG's Better Strongholds (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
 - [YUNG's Better Witch Huts (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts)
-
----
 
 ### Mecánicas del juego
 
@@ -123,9 +124,9 @@ Para poder jugar a esta versión de Minecraft necesitas:
 - [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium)
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)
 - [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast)
+- [Sodium/Embeddium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged)
+- [Sodium/Embeddium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)
 - [Yeetus Experimentus](https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus)
-
----
 
 ### Interfaz UI
 
@@ -141,8 +142,6 @@ Para poder jugar a esta versión de Minecraft necesitas:
 - [Loot Journal (Forge)](https://www.curseforge.com/minecraft/mc-mods/loot-journal)
 - [Traveler's Titles (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/travelers-titles) (_Resource Pack_)
 
----
-
 ### Sonido y ambiente
 
 - [AmbientSounds 6](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
@@ -150,8 +149,6 @@ Para poder jugar a esta versión de Minecraft necesitas:
 - [Presence Footsteps (Forge)](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge)
 - [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
 - [Sound​s](https://www.curseforge.com/minecraft/mc-mods/sound)
-
----
 
 ### Calidad de vida
 
@@ -162,12 +159,10 @@ Para poder jugar a esta versión de Minecraft necesitas:
 - [Chest Search Bar](https://www.curseforge.com/minecraft/mc-mods/chest-search-bar)
 - [Clickable advancements[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements)
 - [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)
-- [Cool Rain Reforged](https://www.curseforge.com/minecraft/mc-mods/cool-rain-reforged)
 - [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)
 - [Dynamic Trim](https://www.curseforge.com/minecraft/mc-mods/dynamic-trim)
 - [Eating Animation [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge)
 - [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
-- [Explosive Enhancement: Reforged](https://www.curseforge.com/minecraft/mc-mods/explosive-enhancement-reforged)
 - [FindMe](https://www.curseforge.com/minecraft/mc-mods/findme)
 - [Gaura's 2D Projectiles](https://www.curseforge.com/minecraft/mc-mods/twod-projectiles)
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
@@ -181,8 +176,6 @@ Para poder jugar a esta versión de Minecraft necesitas:
 - [Spyglass Improvements](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements)
 - [Visuality: Reforged](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged)
 
----
-
 ### Utilidad
 
 - [[EMF] Entity Model Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-model-features)
@@ -193,36 +186,13 @@ Para poder jugar a esta versión de Minecraft necesitas:
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
 - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
 
----
+### Dependencias / Librerías
 
-## Sugerencias de mods
-
-- [Animated Mojang Logo](https://www.curseforge.com/minecraft/mc-mods/animated-mojang-logo)
-- [Antique Atlas](https://www.curseforge.com/minecraft/mc-mods/antique-atlas)
-- [Auto Third Person](https://www.curseforge.com/minecraft/mc-mods/auto-third-person)
-- [Better Statistics Screen](https://www.curseforge.com/minecraft/mc-mods/better-stats)
-- [Boss Music Mod](https://www.curseforge.com/minecraft/mc-mods/boss-music-mod)
-- [Enhanced Mob AI](https://www.curseforge.com/minecraft/mc-mods/enhanced-mob-ai)
-- [First-person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model)
-- [Forgiving Void](https://www.curseforge.com/minecraft/mc-mods/forgiving-void)
-- [Hang Glider](https://www.curseforge.com/minecraft/mc-mods/hang-glider)
-- [Held Item Info](https://www.curseforge.com/minecraft/mc-mods/held-item-info)
-- [Hold My Items](https://www.curseforge.com/minecraft/mc-mods/hold-my-items)
-- [Item Borders [Fabric]](https://www.curseforge.com/minecraft/mc-mods/item-borders-fabric)
-- [Item Highlighter [Fabric]](https://www.curseforge.com/minecraft/mc-mods/item-highlighter-fabric)
-- [Loot Beams: Refork](https://www.curseforge.com/minecraft/mc-mods/loot-beams-refork)
-- [Physics Mod](https://www.curseforge.com/minecraft/mc-mods/physics-mod)
-- [Reimagined Intro](https://modrinth.com/modpack/reimagined-intro)
-- [Scribble](https://www.curseforge.com/minecraft/mc-mods/scribble)
-- [Soul fire'd](https://www.curseforge.com/minecraft/mc-mods/soul-fire-d)
-- [Text Utilities](https://www.curseforge.com/minecraft/mc-mods/text-utilities)
-- [Variants&VEntures](https://www.curseforge.com/minecraft/mc-mods/variants-and-ventures)
-- [YDM's Weapon Master](https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master)
-- [Zombie Awareness](https://www.curseforge.com/minecraft/mc-mods/zombie-awareness)
+- [Library Ferret - Forge](https://www.curseforge.com/minecraft/mc-mods/library-ferret-forge)
 
 ---
 
-## Mods que fueron reemplazados
+### Mods que fueron reemplazados
 
 - [Advancement Plaques [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques) -> Fancy Toasts | Better Advancements
 - [Biome Particle Weather](https://www.curseforge.com/minecraft/mc-mods/biome-particle-weather) -> Particle Rain
@@ -230,3 +200,5 @@ Para poder jugar a esta versión de Minecraft necesitas:
 - [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric) -> Particular ✨ Reforged
 - [Incendium](https://www.curseforge.com/minecraft/mc-mods/incendium) -> Amplified Nether
 - [Pick Up Notifier](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier) -> Loot Journal (Forge)
+
+---
